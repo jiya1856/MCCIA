@@ -68,7 +68,7 @@ def generate_reminder_messages(upcoming_df):
             "urgency_level": urgency_level
         })
         
-    return messages
+    return messages[:10]
 
 
 def simulate_telegram_send(message_dict):
