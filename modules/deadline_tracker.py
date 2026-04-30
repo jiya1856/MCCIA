@@ -370,7 +370,7 @@ def get_upcoming_reminders(deadline_matrix_df):
         return deadline_matrix_df
 
     reminders = deadline_matrix_df[
-        deadline_matrix_df["status"].isin(["DUE_SOON_7", "DUE_SOON_1"])
+        deadline_matrix_df["status"].isin(["DUE_SOON_7", "DUE_SOON_1", "OVERDUE"])
     ].copy()
 
     return reminders.sort_values("due_date").reset_index(drop=True)
