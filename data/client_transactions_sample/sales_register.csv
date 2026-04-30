@@ -1,0 +1,11 @@
+Tally Prime
+Exported Data
+Sales Register
+For Period: 1-Apr-2026 to 30-Apr-2026
+ date , voucher no , party name , sales ledger , gst rate , taxable value , cgst , sgst , igst , total 
+
+ 01-Apr-2026 , 101 , ABC Corp , Sales A/c , 18% , 10000.00 , 900.00 , 900.00 , 0.00 , 11800.00 
+ 
+ 05-Apr-2026 , 102 , XYZ Ltd , Sales A/c , 5% , 5000.00 , 0.00 , 0.00 , 250.00 , 5250.00 
+ 
+ 10-Apr-2026 , 103 , LMN Co , Export Sales , 0% , 20000.00 , 0.00 , 0.00 , 0.00 , 20000.00 

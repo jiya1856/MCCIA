@@ -1,0 +1,9 @@
+Tally Prime
+Exported Data
+Purchase Register
+For Period: 1-Apr-2026 to 30-Apr-2026
+ date , voucher no , supplier , purchase ledger , gst rate , taxable value , cgst , sgst , igst , total 
+
+ 02-Apr-2026 , P101 , Supplier A , Purchases A/c , 18% , 5000.00 , 450.00 , 450.00 , 0.00 , 5900.00 
+ 
+ 12-Apr-2026 , P102 , Supplier B , Purchases A/c , 5% , 2000.00 , 0.00 , 0.00 , 100.00 , 2100.00 

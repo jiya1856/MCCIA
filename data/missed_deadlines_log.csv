@@ -1,0 +1,12 @@
+client_id,compliance_type,due_date,filed_date,days_late,penalty_amount,reason_noted
+CL-013,GSTR-3B (Monthly),2023-06-11,2023-07-16,35,1750,Client unresponsive
+CL-032,GSTR-1 (Monthly),2023-08-12,2023-09-10,29,1450,Staff on leave
+CL-058,TDS Return (Form 24Q),2023-09-16,2023-10-10,24,4800,Document pending
+CL-002,TDS Return (Form 24Q),2024-02-29,2024-03-28,28,5000,Staff on leave
+CL-008,GSTR-1 (Monthly),2023-11-25,2023-12-19,24,1200,Staff on leave
+CL-052,TDS Return (Form 24Q),2024-03-19,2024-03-31,12,2400,Client unresponsive
+CL-048,GSTR-3B (Monthly),2023-07-22,2023-08-04,13,650,System error
+CL-020,Professional Tax (Employer),2024-02-05,2024-03-04,28,5000,System error
+CL-061,GSTR-3B (Monthly),2023-08-05,2023-09-22,48,2400,Document pending
+CL-011,Professional Tax (Employer),2023-12-27,2024-02-15,50,5000,Client unresponsive
+CL-010,GSTR-1 (Quarterly),2023-05-02,2023-06-29,58,2900,Document pending

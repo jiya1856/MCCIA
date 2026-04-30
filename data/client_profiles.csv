@@ -1,0 +1,69 @@
+client_id,client_name,business_type,gstin,pan,pf_reg,esic_reg,shop_act_state,professional_tax_state,fssai_reg,iec_code,turnover_slab,filing_frequency
+CL-001,Raj Industries Pvt Ltd,Construction,2743321819601Z0,GPOSS6379H,,,Maharashtra,Maharashtra,,,40L-1.5Cr,quarterly
+CL-002,Shree Solutions,Retail,2723511615591Z4,LDXCH9593S,,,,,,,1.5Cr-5Cr,monthly
+CL-003,Laxmi Industries Pvt Ltd,Trading,2775255341921Z8,MHYRF5030U,,,Maharashtra,,1.15603E+12,,40L-1.5Cr,quarterly
+CL-004,Mahalaxmi Traders,Retail,2772423884961Z9,FZNCB1226P,,,Maharashtra,Maharashtra,,,5Cr-20Cr,quarterly
+CL-005,Sai Exports,Services,2718451462701Z4,EXWHQ9325T,MH/PUN/80697,31-81182864,Maharashtra,Maharashtra,,,5Cr-20Cr,monthly
+CL-006,Sai Industries Pvt Ltd,Manufacturing,2703911718221Z7,GWLFO3465L,MH/PUN/77839,31-70597444,,,1.11145E+12,,>20Cr,quarterly
+CL-007,Sai Industries Pvt Ltd,Trading,2703105183471Z3,SWOGM6311R,,,Maharashtra,Maharashtra,,,<40L,quarterly
+CL-008,Mahalaxmi Industries Pvt Ltd,Construction,2710651333871Z2,HGYLW8108V,,,Maharashtra,Maharashtra,,3267736026,<40L,monthly
+CL-009,Shree Enterprises,Services,2787234309801Z5,PNWEY1219B,MH/PUN/40828,31-64193837,,Maharashtra,,,40L-1.5Cr,quarterly
+CL-010,Laxmi Traders,Import-Export,2709169985431Z5,KRHIT1079Z,,,Maharashtra,,,3842513542,5Cr-20Cr,quarterly
+CL-011,Om Traders,Construction,2780841241181Z2,PSFQG7401Q,,,Maharashtra,,,,1.5Cr-5Cr,monthly
+CL-012,Bharat Components,Construction,2727868011281Z0,OLBJY0533R,,,Maharashtra,Maharashtra,,6923226025,5Cr-20Cr,quarterly
+CL-013,Laxmi Industries Pvt Ltd,Construction,2742160733751Z4,AFIWZ4586R,,,Maharashtra,Maharashtra,,,<40L,monthly
+CL-014,Mahalaxmi Components,Services,2740196556981Z1,EBLNU3561Y,,,Maharashtra,Maharashtra,,1484656482,40L-1.5Cr,monthly
+CL-015,Vitthal Components,Construction,2729946804431Z6,RMLFM2148R,,,Maharashtra,,,3433200379,<40L,monthly
+CL-016,Ganesh Exports,Retail,2793676320161Z3,YNBGW7278Z,,,Maharashtra,Maharashtra,,,5Cr-20Cr,quarterly
+CL-017,Laxmi Traders,Construction,2768727743481Z7,LSGIX1223J,,,,,,,5Cr-20Cr,monthly
+CL-018,Mahalaxmi Components,Services,2766909670541Z6,TOPFF6706I,MH/PUN/99016,31-64266464,Maharashtra,Maharashtra,,,40L-1.5Cr,quarterly
+CL-019,Om Foods,Import-Export,2706990162721Z0,ILIWH6417A,,,Maharashtra,Maharashtra,,5310033092,40L-1.5Cr,monthly
+CL-020,Raj Components,Retail,2793745299121Z4,AIRYK3193C,,,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-021,Raj Foods,Import-Export,2705865185061Z7,YQVSL8498U,,,Maharashtra,Maharashtra,,9453147379,>20Cr,quarterly
+CL-022,Sai Enterprises,Retail,2775273545491Z4,NEGKO3777U,,,,,,,40L-1.5Cr,monthly
+CL-023,Om Industries Pvt Ltd,Construction,2778856855741Z4,DFDNT2337H,,,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-024,Vitthal Traders,Manufacturing,2782400842711Z0,MLEBY7116M,MH/PUN/85631,,Maharashtra,,,,40L-1.5Cr,quarterly
+CL-025,Vitthal Foods,Services,2786999386771Z4,HQPTY3341E,,,,,,,<40L,monthly
+CL-026,Laxmi Foods,Retail,2774034471341Z9,CFDGD0249T,,,Maharashtra,,,,<40L,monthly
+CL-027,Vitthal Traders,Construction,2764887719061Z5,AFRWP0490T,,,,Maharashtra,,,5Cr-20Cr,monthly
+CL-028,Saraswati Traders,Trading,2771756551251Z6,RKTAC4516W,,,Maharashtra,,1.18675E+12,,5Cr-20Cr,monthly
+CL-029,Vitthal Exports,Manufacturing,2770348247711Z0,GEOOC1712M,,,Maharashtra,Maharashtra,,,1.5Cr-5Cr,monthly
+CL-030,Mahalaxmi Traders,Retail,2737826398211Z4,YNVHH9972L,,,Maharashtra,Maharashtra,,8675339636,<40L,monthly
+CL-031,Raj Components,Construction,2766270289511Z7,XADWZ1745Q,,,Maharashtra,,,,1.5Cr-5Cr,quarterly
+CL-032,Mahalaxmi Enterprises,Import-Export,2765780913431Z1,TSCEH0050H,,,Maharashtra,,,8692221969,40L-1.5Cr,monthly
+CL-033,Raj Foods,Import-Export,2723747407481Z2,YZHZR7436W,,,,Maharashtra,,5944064090,>20Cr,quarterly
+CL-034,Om Exports,Retail,2743953394211Z0,LPTCH6232U,,,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-035,Raj Exports,Trading,2774517123681Z5,KGDJT4965C,,,Maharashtra,,,,>20Cr,monthly
+CL-036,Raj Enterprises,Import-Export,2731746120041Z7,GNKJY8692X,,,Maharashtra,Maharashtra,,9640537735,<40L,quarterly
+CL-037,Laxmi Industries Pvt Ltd,Services,2764317139001Z5,UFVOP3529A,MH/PUN/28964,31-27447248,Maharashtra,Maharashtra,,,<40L,quarterly
+CL-038,Saraswati Foods,Manufacturing,2795024026811Z1,UNCNY0847Q,,,,Maharashtra,,,5Cr-20Cr,monthly
+CL-039,Sai Solutions,Construction,2771159212491Z9,IZNLP1183L,,,Maharashtra,Maharashtra,,,5Cr-20Cr,monthly
+CL-040,Mahalaxmi Enterprises,Retail,2756545271111Z1,TJDBY8516J,,,Maharashtra,Maharashtra,,,<40L,monthly
+CL-041,Sai Traders,Import-Export,2745198327311Z5,CHFLO9980P,,,Maharashtra,Maharashtra,,244550229,5Cr-20Cr,monthly
+CL-042,Vitthal Components,Trading,2718366752541Z5,CBEQR4767P,,,Maharashtra,,1.12509E+12,5614978403,5Cr-20Cr,quarterly
+CL-043,Sai Solutions,Manufacturing,2724451076221Z6,FORJK0607X,,,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-044,Raj Industries Pvt Ltd,Construction,2741605297511Z6,LKCWT3521N,,,,Maharashtra,,,1.5Cr-5Cr,monthly
+CL-045,Saraswati Foods,Construction,2723124329211Z2,TTLYO9552L,,,Maharashtra,Maharashtra,,4905814770,<40L,monthly
+CL-046,Laxmi Traders,Services,2719986798071Z9,PNYLV5182B,,,Maharashtra,Maharashtra,,,>20Cr,quarterly
+CL-047,Bharat Enterprises,Import-Export,2725546659051Z1,OKGWZ9251P,,,,Maharashtra,,6291486528,<40L,quarterly
+CL-048,Ganesh Enterprises,Construction,2750542357331Z2,HUNOT8059D,,,Maharashtra,,,,>20Cr,monthly
+CL-049,Saraswati Exports,Construction,2765379473831Z4,FROLU6886Z,,,Maharashtra,Maharashtra,,,40L-1.5Cr,monthly
+CL-050,Laxmi Exports,Manufacturing,2781412478261Z1,LJABN3615F,MH/PUN/51770,31-23298711,Maharashtra,Maharashtra,,,40L-1.5Cr,monthly
+CL-051,Vitthal Components,Manufacturing,2727790104321Z8,LUGDG9711V,,,Maharashtra,Maharashtra,1.18143E+12,,>20Cr,monthly
+CL-052,Raj Components,Construction,2760953962181Z5,OUNAW0654T,,,Maharashtra,,,,40L-1.5Cr,quarterly
+CL-053,Ganesh Enterprises,Construction,2795205852771Z2,SYAFU0548K,,,Maharashtra,Maharashtra,,,<40L,quarterly
+CL-054,Saraswati Solutions,Trading,2705415667651Z2,MYNUS1692O,,,Maharashtra,,,,1.5Cr-5Cr,monthly
+CL-055,Raj Solutions,Retail,2762757059641Z0,QJURY2970D,,,Maharashtra,Maharashtra,,,1.5Cr-5Cr,monthly
+CL-056,Bharat Foods,Import-Export,2709275571921Z8,IHYAE8681G,,,Maharashtra,Maharashtra,,9473121727,<40L,quarterly
+CL-057,Saraswati Enterprises,Services,2744225831321Z3,JOMZD1146Z,MH/PUN/72739,31-80557676,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-058,Shree Exports,Trading,2777852892261Z8,DDEIS5841G,,,Maharashtra,Maharashtra,1.19644E+12,,1.5Cr-5Cr,quarterly
+CL-059,Shree Exports,Import-Export,2718299229951Z9,WCYUG3969Q,,,Maharashtra,Maharashtra,,4473647102,5Cr-20Cr,monthly
+CL-060,Raj Traders,Retail,2759255562581Z8,GDLDB6963Z,,,Maharashtra,Maharashtra,,,>20Cr,quarterly
+CL-061,Laxmi Components,Services,2787747016871Z3,JBMWR7480W,,,Maharashtra,Maharashtra,,,1.5Cr-5Cr,monthly
+CL-062,Vitthal Solutions,Services,2783584168781Z4,PDCJZ8523P,,,Maharashtra,,,,<40L,monthly
+CL-063,Mahalaxmi Components,Construction,2778729825951Z2,THIVN9470J,,,Maharashtra,Maharashtra,,,>20Cr,monthly
+CL-064,Sai Solutions,Construction,2709749930971Z2,SUJVG9130L,,,Maharashtra,Maharashtra,,,40L-1.5Cr,monthly
+CL-065,Bharat Industries Pvt Ltd,Import-Export,2797028385781Z6,LNORW4973Y,,,Maharashtra,,,4437575844,<40L,quarterly
+CL-066,Laxmi Industries Pvt Ltd,Construction,2765240415741Z7,VHOHC9330R,,,Maharashtra,Maharashtra,,,<40L,monthly
+CL-067,Bharat Traders,Retail,2771208267731Z4,QXCON0262Y,,,,Maharashtra,,,5Cr-20Cr,monthly
+CL-068,Sai Foods,Construction,2740049915471Z8,XDNHV5274S,,,,Maharashtra,,4932966851,5Cr-20Cr,quarterly

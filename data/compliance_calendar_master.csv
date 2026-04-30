@@ -1,0 +1,211 @@
+compliance_type,frequency,period,due_date,applicability_condition,penalty_per_day,penalty_cap
+GSTR-1 (Monthly),monthly,Apr-24,21-04-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,May-24,21-05-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,May-24,20-06-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Jun-24,20-07-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Jul-24,19-08-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Aug-24,18-09-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Sep-24,18-10-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Oct-24,17-11-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Nov-24,17-12-2024,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Dec-24,16-01-2025,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Jan-25,15-02-2025,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Feb-25,17-03-2025,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Quarterly),quarterly,Apr-24,21-04-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,May-24,21-05-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,May-24,20-06-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Jun-24,20-07-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Jul-24,19-08-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Aug-24,18-09-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Sep-24,18-10-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Oct-24,17-11-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Nov-24,17-12-2024,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Dec-24,16-01-2025,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Jan-25,15-02-2025,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Feb-25,17-03-2025,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Monthly),monthly,Apr-24,21-04-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,May-24,21-05-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,May-24,20-06-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Jun-24,20-07-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Jul-24,19-08-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Aug-24,18-09-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Sep-24,18-10-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Oct-24,17-11-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Nov-24,17-12-2024,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Dec-24,16-01-2025,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Jan-25,15-02-2025,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Feb-25,17-03-2025,"GST registered, monthly filer",50,5000
+GSTR-3B (Quarterly),quarterly,Apr-24,21-04-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,May-24,21-05-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,May-24,20-06-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Jun-24,20-07-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Jul-24,19-08-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Aug-24,18-09-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Sep-24,18-10-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Oct-24,17-11-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Nov-24,17-12-2024,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Dec-24,16-01-2025,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Jan-25,15-02-2025,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Feb-25,17-03-2025,"GST registered, QRMP scheme",50,5000
+TDS Return (Form 24Q),quarterly,Apr-24,21-04-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,May-24,21-05-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,May-24,20-06-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Jun-24,20-07-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Jul-24,19-08-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Aug-24,18-09-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Sep-24,18-10-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Oct-24,17-11-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Nov-24,17-12-2024,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Dec-24,16-01-2025,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Jan-25,15-02-2025,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Feb-25,17-03-2025,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Apr-24,21-04-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,May-24,21-05-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,May-24,20-06-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Jun-24,20-07-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Jul-24,19-08-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Aug-24,18-09-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Sep-24,18-10-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Oct-24,17-11-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Nov-24,17-12-2024,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Dec-24,16-01-2025,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Jan-25,15-02-2025,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Feb-25,17-03-2025,"TAN holder, non-salary TDS",200,equal to TDS amount
+PF Monthly Challan,monthly,Apr-24,21-04-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,May-24,21-05-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,May-24,20-06-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Jun-24,20-07-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Jul-24,19-08-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Aug-24,18-09-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Sep-24,18-10-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Oct-24,17-11-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Nov-24,17-12-2024,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Dec-24,16-01-2025,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Jan-25,15-02-2025,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Feb-25,17-03-2025,PF registered establishment,0,12% interest p.a. on delayed contribution
+ESIC Monthly Contribution,monthly,Apr-24,21-04-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,May-24,21-05-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,May-24,20-06-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Jun-24,20-07-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Jul-24,19-08-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Aug-24,18-09-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Sep-24,18-10-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Oct-24,17-11-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Nov-24,17-12-2024,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Dec-24,16-01-2025,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Jan-25,15-02-2025,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Feb-25,17-03-2025,"ESIC registered, >10 employees",0,12% interest p.a.
+Professional Tax (Employer),monthly,Apr-24,21-04-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,May-24,21-05-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,May-24,20-06-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Jun-24,20-07-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Jul-24,19-08-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Aug-24,18-09-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Sep-24,18-10-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Oct-24,17-11-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Nov-24,17-12-2024,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Dec-24,16-01-2025,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Jan-25,15-02-2025,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Feb-25,17-03-2025,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Income Tax Advance Tax Q1,annual,Apr-24,21-04-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,May-24,21-05-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,May-24,20-06-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Jun-24,20-07-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Jul-24,19-08-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Aug-24,18-09-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Sep-24,18-10-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Oct-24,17-11-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Nov-24,17-12-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Dec-24,16-01-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Jan-25,15-02-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Feb-25,17-03-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Apr-24,21-04-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,May-24,21-05-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,May-24,20-06-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Jun-24,20-07-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Jul-24,19-08-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Aug-24,18-09-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Sep-24,18-10-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Oct-24,17-11-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Nov-24,17-12-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Dec-24,16-01-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Jan-25,15-02-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Feb-25,17-03-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Apr-24,21-04-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,May-24,21-05-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,May-24,20-06-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Jun-24,20-07-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Jul-24,19-08-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Aug-24,18-09-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Sep-24,18-10-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Oct-24,17-11-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Nov-24,17-12-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Dec-24,16-01-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Jan-25,15-02-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Feb-25,17-03-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Apr-24,21-04-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,May-24,21-05-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,May-24,20-06-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Jun-24,20-07-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Jul-24,19-08-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Aug-24,18-09-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Sep-24,18-10-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Oct-24,17-11-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Nov-24,17-12-2024,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Dec-24,16-01-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Jan-25,15-02-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Feb-25,17-03-2025,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Shop & Establishment Renewal,annual,Apr-24,21-04-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,May-24,21-05-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,May-24,20-06-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Jun-24,20-07-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Jul-24,19-08-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Aug-24,18-09-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Sep-24,18-10-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Oct-24,17-11-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Nov-24,17-12-2024,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Dec-24,16-01-2025,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Jan-25,15-02-2025,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Feb-25,17-03-2025,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+GSTR-1 (Monthly),monthly,Apr-26,21-04-2026,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,May-26,20-05-2026,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Monthly),monthly,Jun-26,20-06-2026,"GST registered, monthly filer, turnover>5Cr",50,5000
+GSTR-1 (Quarterly),quarterly,Apr-26,21-04-2026,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,May-26,20-05-2026,"GST registered, QRMP scheme",50,5000
+GSTR-1 (Quarterly),quarterly,Jun-26,20-06-2026,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Monthly),monthly,Apr-26,21-04-2026,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,May-26,20-05-2026,"GST registered, monthly filer",50,5000
+GSTR-3B (Monthly),monthly,Jun-26,20-06-2026,"GST registered, monthly filer",50,5000
+GSTR-3B (Quarterly),quarterly,Apr-26,21-04-2026,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,May-26,20-05-2026,"GST registered, QRMP scheme",50,5000
+GSTR-3B (Quarterly),quarterly,Jun-26,20-06-2026,"GST registered, QRMP scheme",50,5000
+TDS Return (Form 24Q),quarterly,Apr-26,21-04-2026,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,May-26,20-05-2026,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 24Q),quarterly,Jun-26,20-06-2026,"TAN holder, salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Apr-26,21-04-2026,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,May-26,20-05-2026,"TAN holder, non-salary TDS",200,equal to TDS amount
+TDS Return (Form 26Q),quarterly,Jun-26,20-06-2026,"TAN holder, non-salary TDS",200,equal to TDS amount
+PF Monthly Challan,monthly,Apr-26,21-04-2026,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,May-26,20-05-2026,PF registered establishment,0,12% interest p.a. on delayed contribution
+PF Monthly Challan,monthly,Jun-26,20-06-2026,PF registered establishment,0,12% interest p.a. on delayed contribution
+ESIC Monthly Contribution,monthly,Apr-26,21-04-2026,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,May-26,20-05-2026,"ESIC registered, >10 employees",0,12% interest p.a.
+ESIC Monthly Contribution,monthly,Jun-26,20-06-2026,"ESIC registered, >10 employees",0,12% interest p.a.
+Professional Tax (Employer),monthly,Apr-26,21-04-2026,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,May-26,20-05-2026,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Professional Tax (Employer),monthly,Jun-26,20-06-2026,"Maharashtra employer, >5 employees",0,2% per month on arrears
+Income Tax Advance Tax Q1,annual,Apr-26,21-04-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,May-26,20-05-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q1,annual,Jun-26,20-06-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Apr-26,21-04-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,May-26,20-05-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q2,annual,Jun-26,20-06-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Apr-26,21-04-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,May-26,20-05-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q3,annual,Jun-26,20-06-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Apr-26,21-04-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,May-26,20-05-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Income Tax Advance Tax Q4,annual,Jun-26,20-06-2026,"Tax liability >10,000 in FY",0,1% per month u/s 234C
+Shop & Establishment Renewal,annual,Apr-26,21-04-2026,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,May-26,20-05-2026,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"
+Shop & Establishment Renewal,annual,Jun-26,20-06-2026,Maharashtra shop act registered,0,"Fixed penalty Rs 5,000-50,000"

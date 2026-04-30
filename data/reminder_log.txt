@@ -1,0 +1,3 @@
+[2026-04-30T15:20:04.661938] TO: CL-001 | MSG: ⚠️ REMINDER: Acme Corp — GSTR-3B is due in 7 days on 2026-05-07. Penalty: ₹50/day if missed. Please file at the earliest.
+[2026-04-30T15:20:04.662338] TO: CL-002 | MSG: 🚨 URGENT: Globex — PF Challan is due TOMORROW (2026-05-01). File today to avoid penalty of ₹0/day.
+[2026-04-30T15:20:04.662590] TO: CL-003 | MSG: 🔴 OVERDUE: Initech — TDS Return was due on 2026-04-20. Days overdue: 10. Escalate immediately.
